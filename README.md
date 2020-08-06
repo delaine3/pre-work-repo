@@ -32,12 +32,15 @@ Here's a walkthrough of implemented user stories:
 
 https://youtu.be/SF_UO3Bhir0
 
-GIF created with [ezgif](ezgif.com).
+GIF created with [https://ezgif.com/maker](https://ezgif.com/maker).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 At first I had problems getting my keybooard to load but I fixed that.
+
+I put my video on youtube becasue I wasn't sure how to add the gif to gitHub.
 
 ## License
 
