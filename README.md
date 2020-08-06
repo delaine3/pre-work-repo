@@ -5,7 +5,7 @@ Code Path Pre Work Repository
 
 **Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Delaine Abnere**
+Submitted by: **Delaine Abner**
 
 Time spent: **3** hours spent in total
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<src='https://youtu.be/SF_UO3Bhir0' title='CodePath- Pre Work App' width='' alt='CodePath- Pre Work App' />
+https://youtu.be/SF_UO3Bhir0
 
 GIF created with [ezgif](ezgif.com).
 
