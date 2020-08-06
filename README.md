@@ -30,9 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/gZmFh6z.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ezgif.com-video-to-gif' title='CodePath- Pre Work App' width='' alt='CodePath- Pre Work App' />
 
-GIF created with [ezgif](ezgif.com-video-to-gif).
+GIF created with [ezgif](ezgif.com).
 
 ## Notes
 
