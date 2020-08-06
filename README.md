@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://youtu.be/SF_UO3Bhir0' title='CodePath- Pre Work App' width='' alt='CodePath- Pre Work App' />
+<src='https://youtu.be/SF_UO3Bhir0' title='CodePath- Pre Work App' width='' alt='CodePath- Pre Work App' />
 
 GIF created with [ezgif](ezgif.com).
 
